@@ -9,6 +9,8 @@ Usage of ./port_tunnel_darwin:
     	8.8.8.8:1234 [NC、CobaltStrike、Metasploit等服务监听端口] (default "8.8.8.8:1234")
 ```
 
+![port_tunnel](https://image.3001.net/images/20210620/1624182547678.png)
+
 ## 基础功能演示
 
 https://www.yuque.com/docs/share/ff7e9ffb-98c9-48ab-81b0-b985f85cbb68?# 《port_tunnel (Go开发)》

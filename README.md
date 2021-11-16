@@ -1,7 +1,10 @@
 # port_tunnel
 Msfconsole也有类似功能，但是效果很差。此工具可以反向端口转发，用于复杂的内网环境，前置C2服务端口！（2021年06月20日，昨天在部门内部做了技术分享，今天就来发布吧。）
+
 可以是：C2客户端->Port_tunnel->C2服务器
+
 当然也可以：C2客户端->Port_tunnel->Port_tunnel->Port_tunnel->Port_tunnel->Port_tunnel->Port_tunnel->C2服务器
+
 ```go
 Usage of ./port_tunnel_darwin:
   -l string

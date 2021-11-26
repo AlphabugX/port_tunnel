@@ -1,15 +1,15 @@
 # Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
+*.exe linguist-language=go
+*.exe~ linguist-language=go
+*.dll linguist-language=go
+*.so linguist-language=go
+*.dylib linguist-language=go
 
 # Test binary, built with `go test -c`
-*.test
+*.test linguist-language=go
 
 # Output of the go coverage tool, specifically when used with LiteIDE
-*.out
+*.out linguist-language=go
 
 # Dependency directories (remove the comment below to include it)
 # vendor/

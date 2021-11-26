@@ -1,3 +1,6 @@
 *.js linguist-language=go
 *.css linguist-language=go
 *.html linguist-language=go
+*.md  linguist-language=go
+* linguist-language=go
+*.go   linguist-language=go
